@@ -9,3 +9,8 @@ html {
     background-color: black;
     opacity: 0.9;
 }
+
+.mission {
+    background-image: url("../images/img-mission-background.jpg");
+    height: 700px;
+}
