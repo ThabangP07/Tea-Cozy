@@ -1,5 +1,6 @@
 * {
     box-sizing: border-box;
+    border: 1px solid red;
 }
 
 html {
@@ -13,4 +14,9 @@ html {
 .mission {
     background-image: url("../images/img-mission-background.jpg");
     height: 700px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
 }
+
